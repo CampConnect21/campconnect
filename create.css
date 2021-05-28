@@ -1,0 +1,147 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1114px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 209px;
+  height: 209px;
+  background-image: url("images/pexels-photo-2434165.jpeg");
+  background-position: 50% 50%;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  background-image: none;
+  text-transform: none;
+  font-size: 2.25rem;
+  width: 559px;
+  font-weight: 700;
+  margin: 40px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 561px;
+  width: 835px;
+  margin: 21px auto 60px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-8 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-9 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-10 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 0.875rem;
+  margin-left: auto;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-form-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-form-group-1 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-2 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-3 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-4 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-5 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-6 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-7 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-8 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-9 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-10 {
+    width: 100%;
+  }
+}
